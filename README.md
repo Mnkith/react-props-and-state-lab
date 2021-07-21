@@ -21,7 +21,7 @@ We **strongly** recommend completing this lab using Behavior Driven Development
 You'll have a much better time seeing the results in the browser.
 
 Call `npm i && npm start` to run this project in your browser
-
+ 
 ## Deliverables
 
 - A user should be able to change the Animal Type filter/drop down to specify
